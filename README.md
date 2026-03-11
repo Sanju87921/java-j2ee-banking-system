@@ -29,5 +29,3 @@
 2. Configure MySQL database
 3. Deploy on Apache Tomcat
 4. Run application in browser
-
-Commit new file
